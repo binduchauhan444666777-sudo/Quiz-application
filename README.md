@@ -1,2 +1,10 @@
 # Quiz-application
-A simple quiz application built using python
+## concepts used
+- Lists, Dictionaries
+- loops
+- conditional statements
+
+## features
+- beginner friendly
+- easy implementation of the code
+- scores can be checked
